@@ -5,12 +5,12 @@
 -- Set highlight on search
 vim.o.hlsearch = false
 
+-- Enable mouse mode
 -- Make line numbers default
 vim.wo.number = true
 -- relateive number is default
 vim.wo.relativenumber = true
 
--- Enable mouse mode
 vim.o.mouse = 'a'
 
 -- Sync clipboard between OS and Neovim.
